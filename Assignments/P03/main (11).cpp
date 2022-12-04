@@ -1,3 +1,7 @@
+//Breckin Hume
+//Professor Terry Griffin
+//OOP 2143
+//Program 3 BlackJack Program
 #include <iostream>
 #include <string>
 #include "blackjack.hpp"
@@ -8,7 +12,10 @@
 
 using namespace std;
 
-
+//Function Name: Game
+//Function Type: Void
+//Parameters: None
+//Purpose: To guide the player through the established game of blackjack using various conditionals
 void GAME()
 {
      //These are variables that will be used throughout the lifetime of the function
